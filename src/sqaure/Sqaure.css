@@ -1,0 +1,18 @@
+.square{
+    width: 80px;
+    height: 80px;
+    background-color: #4b495f;
+    border-radius: 5px;
+}
+
+.not-allowed{
+    cursor: not-allowed !important;
+}
+
+.circle-won{
+    background-color: pink ;
+}
+
+.cross-won{
+    background-color: rgb(18, 142, 188)
+}
